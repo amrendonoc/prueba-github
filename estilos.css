@@ -114,9 +114,11 @@ body {
   padding: 2px;
   display: block;
 }
+
 a {
   text-decoration: none;
   color: #fff;
+  display: block;
 }
 
 ul {
