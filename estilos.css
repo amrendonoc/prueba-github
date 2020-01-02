@@ -60,7 +60,7 @@ p
 	color: #FFFFFF;
 	display: block;
 	font: bold 12px/20px sans-serif;
-	padding: 10px 25px;
+	padding: 100% 100%;/*tamaño de cada cajon del menu*/
 	text-align: center;
 	text-decoration: none;
 	-webkit-transition: all .25s ease;
